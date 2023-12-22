@@ -1,3 +1,5 @@
+[![GitHub - Short URL MNE Stack CODE LINK](https://img.shields.io/badge/GitHub-Short_URL_MNE_Stack-green?style=for-the-badge)](https://github.com/Satyamchaubey/Short_url_MNE_Stack?tab=readme-ov-file)
+
 # 🌐 URL Shortener Project
 
 ## Introduction
